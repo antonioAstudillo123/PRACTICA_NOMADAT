@@ -15,5 +15,5 @@ El sistema está diseñado bajo una arquitectura Controlador -> Servicio -> Repo
 
 Hago uso de Livewire para crear componente tabla. 
 
-
+En la ruta /mensaje Muestro un mensaje de motivación
 
